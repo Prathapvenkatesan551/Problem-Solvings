@@ -1,5 +1,6 @@
 package Leetcode_problems;
 import java.util.*;
+// Time Complexity = O(N)
 public class Longest_Consecutive_Sequence {
 
 	public static void main(String[] args) {
