@@ -1,4 +1,10 @@
 package Common_Interview;
+//
+//O(n 
+//1.5
+// ⋅(log(n)) 
+//1.5
+// )
 
 public class NthPrimeNumber {
 	public static int findNthPrime(int n) {

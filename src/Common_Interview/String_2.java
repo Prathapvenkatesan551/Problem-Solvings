@@ -1,5 +1,5 @@
 package Common_Interview;
-
+//worst-case time complexity is O(n^2)
 public class String_2 {
 
 	public static void main(String[] args) {

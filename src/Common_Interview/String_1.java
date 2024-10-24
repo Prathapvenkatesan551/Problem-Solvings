@@ -1,5 +1,5 @@
 package Common_Interview;
-
+//Time Complexity = O(N)
 public class String_1 {
 
 	public static void main(String[] args) {
